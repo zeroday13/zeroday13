@@ -1,5 +1,5 @@
 ## hi there 👋 im zeroday
-![image](https://github.com/zeroday13/zeroday13/blob/main/mountains)
+![image](https://github.com/zeroday13/zeroday13/blob/main/mountains.png)
 
 fullstack engineer
 
