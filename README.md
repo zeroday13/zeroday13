@@ -9,7 +9,7 @@ i enjoy learning new techns, and constantly improving my coding skills so i'm up
 
 i'm currently diving deeper into AI.
 
-## my prev projects
+## ⚒️ my prev projects
 
 agentmemory
 
